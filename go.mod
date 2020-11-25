@@ -15,6 +15,7 @@ require (
 	github.com/go-stack/stack v1.8.0 // indirect
 	github.com/golang/groupcache v0.0.0-20190129154638-5b532d6fd5ef
 	github.com/golang/snappy v0.0.2-0.20200707131729-196ae77b8a26 // indirect
+	github.com/iotexproject/iotex-address v0.2.4
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/pborman/uuid v1.2.0 // indirect
 	github.com/pkg/errors v0.9.1
